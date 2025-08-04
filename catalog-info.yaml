@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "hai"
+  annotations:
+    backstage.io/managed-by: scaffolder
+    github.com/project-slug: sotatek-cloudteam/backstage-demo-1
+spec:
+  type: database
+  owner: sotatek-dev-team
+  lifecycle: experimental
