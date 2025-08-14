@@ -4,6 +4,7 @@ metadata:
   name: "hai"
   annotations:
     backstage.io/managed-by: scaffolder
+    backstage.io/orphan: 'true'
     github.com/project-slug: sotatek-cloudteam/backstage-demo-1
 spec:
   type: database
