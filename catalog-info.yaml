@@ -10,3 +10,6 @@ spec:
   type: database
   owner: sotatek-dev-team
   lifecycle: experimental
+  dataSensitivity: internal
+  complianceTier: none
+  internalOnly: true
